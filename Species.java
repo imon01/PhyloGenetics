@@ -4,7 +4,6 @@
  * Defines a new "Species" type, which stores the information associated
  * with a species
  *
- * This class has been implemented for you. You may not modify it.
  * 
  * Auther: B. Hutchinson
  * Feb 2016
